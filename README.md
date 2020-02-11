@@ -1,0 +1,1 @@
+Robofriends is a project made with the ZTM course, to learn the fundamentals of react.
